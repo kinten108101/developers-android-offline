@@ -1,0 +1,48 @@
+/**
+ * For some reasons headings beyond h2 don't inherit the nav active color,
+ * so we'll enforce it here.
+ */
+a.devsite-nav-active {
+  color: var(--devsite-nav-color-active) !important; 
+}
+
+/**
+ * Fix right sidebar width, still experimental
+ * FIXME(kinten): % is proportional
+ */
+.devsite-sidebar-content {
+  max-width: 16% !important;
+}
+
+/**
+ * Vertically center the heading link button
+ */
+ 
+h1, h2, h3, h4, h5, h6 {
+  display: flex !important;
+  align-items: center;
+}
+
+h1 button,
+h2 button,
+h3 button,
+h4 button,
+h5 button,
+h6 button {
+  display: flex !important;
+  align-items: center;
+}
+
+/**
+ * FIXME(kinten): vh is proportional
+ */
+nav.devsite-book-nav {
+  max-height: 60vh;
+}
+
+/**
+ * FIXME(kinten): vh is proportional
+ */
+devsite-toc {
+  max-height: 40vh;
+}

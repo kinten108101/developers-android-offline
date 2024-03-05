@@ -1,0 +1,13 @@
+https://developer.android.com/jetpack/compose/animation/introduction?hl=en
+https://developer.android.com/jetpack/compose/animation/choose-api?hl=en
+https://developer.android.com/jetpack/compose/animation/quick-guide?hl=en
+https://developer.android.com/jetpack/compose/animation/composables-modifiers?hl=en
+https://developer.android.com/jetpack/compose/animation/value-based?hl=en
+https://developer.android.com/jetpack/compose/animation/vectors?hl=en
+https://developer.android.com/jetpack/compose/animation/advanced?hl=en
+https://developer.android.com/jetpack/compose/animation/customize?hl=en
+https://developer.android.com/jetpack/compose/animation/testing?hl=en
+https://developer.android.com/jetpack/compose/animation/tooling?hl=en
+https://developer.android.com/jetpack/compose/animation/resources?hl=en
+
+

@@ -1,0 +1,22 @@
+/**
+ * Disable snacks
+ */
+devsite-snackbar {
+  display: none !important;
+}
+
+devsite-language-selector {
+  display: none !important;
+}
+
+devsite-header a.devsite-top-button {
+  display: none !important;
+}
+
+devsite-user {
+  display: none !important;
+}
+
+devsite-search {
+  display: none !important;
+}
