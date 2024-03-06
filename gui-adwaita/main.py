@@ -67,6 +67,8 @@ def on_application_run(obj):
 	
 	headerbar = Adw.HeaderBar()
 	headerbar.set_valign(Gtk.Align.START)
+	headerbar.set_halign(Gtk.Align.END)
+	headerbar.set_size_request(300, -1)
 	# Disable title text for now
 	headerbar.set_title_widget(Gtk.Label())
 	headerbar.add_css_class("flat")
